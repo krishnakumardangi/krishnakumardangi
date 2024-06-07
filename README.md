@@ -1,4 +1,10 @@
 <!DOCTYPE html>
+<html>
+<head>
+    <title>GitHub Page</title>
+</head>
+<body>
+  
 <marquee> I am curious, are you! </marquee>
 - 👋 Hi, I’m Krishna Kumar ...
 - 👀 I’m interested in Software and Hardware Engineering ...
@@ -8,7 +14,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
 <!---
 krishnakumardangi/krishnakumardangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</body>
+</html>
