@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/krishnakumardangi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=1000&color=9745F5&center=true&multiline=true&width=650&height=80&lines=Krishna+Kumar;Engineer+%7C+Undergraduate+Student+%7C+Python+%7C+C+%2B+%2B+%7C+Verilog" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=1000&color=F7F11E&center=true&multiline=true&width=650&height=80&lines=Krishna+Kumar;Engineer+%7C+Undergraduate+Student+%7C+Python+%7C+C+%2B+%2B+%7C+Verilog" alt="Typing SVG" />
 </a>
 <br/>
 
